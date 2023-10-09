@@ -1,0 +1,34 @@
+{
+    "operationType": "signIn",
+    "credential": null,
+    "additionalUserInfo": {
+        "isNewUser": false,
+        "providerId": "password",
+        "profile": {}
+    },
+    "user": {
+        "uid": "ExNDdPPcWZcAa5i1Gmwud0c0noO2",
+        "email": "michael@mail.com",
+        "emailVerified": false,
+        "isAnonymous": false,
+        "providerData": [
+            {
+                "providerId": "password",
+                "uid": "michael@mail.com",
+                "displayName": null,
+                "email": "michael@mail.com",
+                "phoneNumber": null,
+                "photoURL": null
+            }
+        ],
+        "stsTokenManager": {
+            "refreshToken": "AMf-vBwOpHBW4pp6X2WMLGhg3NI1kzXGxTnj4ZYfnBP2t0kbJ6uSS2a4bTZkdf0ZVdRSEwkderSbeyb3Q3CrSPGdM5fZCI2LjJkkHMK3BiLSiC_UG2VSF5tsVL897o7y5q_3Em9fVMUJJ9QfbLHIM_74dKl3X_IrDwlfRZVz1sQvlRtjq_XhQ_8D2lsJ1p9U_NcJJxPNoqceMkCCf2NUHE1xkGdoWdYeNQ",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjE5MGFkMTE4YTk0MGFkYzlmMmY1Mzc2YjM1MjkyZmVkZThjMmQwZWUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vYmFkYmFuay02NmY5ZSIsImF1ZCI6ImJhZGJhbmstNjZmOWUiLCJhdXRoX3RpbWUiOjE2OTM4ODIzMTQsInVzZXJfaWQiOiJFeE5EZFBQY1daY0FhNWkxR213dWQwYzBub08yIiwic3ViIjoiRXhORGRQUGNXWmNBYTVpMUdtd3VkMGMwbm9PMiIsImlhdCI6MTY5Mzg4MjMxNCwiZXhwIjoxNjkzODg1OTE0LCJlbWFpbCI6Im1pY2hhZWxAbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsibWljaGFlbEBtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6InBhc3N3b3JkIn19.H41uHCME-aTJsV8CNclNHQyHDiifLEjzZKkRT3hmjuxaOFVRwou1dPJLIAAoAdnfr6eEkvrSVgzBgKstYnFXuRuMozNIK_HNdjQON1PgA71ZfrVuwgpLYE5QNyWQiXdoq02hQr0l5nPh7YqlgG1tf5g1wLS6aVVx3JR_rYARrgrk59upjikHBDk84XUybY-x1N_ews-Xbpv-dXhofLpuUFRTMKHhn-4jfIb7Mc-rqiU3iqObK0424Vxwu2HSFbOQTIrBYeHR3NkFlwtkcnARudbRn_d21zPNEyTqRiNriCeaeNZ58OCHTGUp1poIGIALZEnBhjHBMQuYtg-1aIk-sw",
+            "expirationTime": 1693885914788
+        },
+        "createdAt": "1693870968570",
+        "lastLoginAt": "1693882296911",
+        "apiKey": "AIzaSyCyk5H_P-ubiNKQTK_9TPGHYq5LQ-yUvkw",
+        "appName": "[DEFAULT]"
+    }
+}
