@@ -20,7 +20,7 @@ The project uses a react front end and an express server backend, which connects
 
 ## Roadmap
 * There are a lot of things I think can be improved on this project or features I'd like to add in the future.
-* - Different types of accounts (checking vs savings) and accoutns that properly accrue interest.
+  - Different types of accounts (checking vs savings) and accoutns that properly accrue interest.
   - The ability to transfer funds between different accounts.
 * Improvements
-  - Given the time contrainst of this project, I would like to go back and rewrite some of the data abstraction layer to ensure only necessary data is retrieved from the database, instead of all data being pulled and then filtering on the client side.
+  - Given the time contrainst of this project, I would like to go back and rewrite some of the data abstraction layer to ensure only necessary data is retrieved from the database, instead of   all data being pulled and then filtering on the client side.
