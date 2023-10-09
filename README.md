@@ -1,1 +1,1 @@
-# MIT_badbank_capstone
+# MIT BadBank Capstone Project
